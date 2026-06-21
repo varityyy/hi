@@ -38,7 +38,26 @@ always int! or c + h i love people ok!
 
 
 
-[https://varity.atabook.org/]
-
+https://varity.atabook.org/
+.
 
      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. i won't fix this. 
